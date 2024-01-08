@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.qsolink.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'QSOLink Ham Radio Contact Log'
 theme = 'anake'
